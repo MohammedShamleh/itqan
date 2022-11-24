@@ -234,7 +234,7 @@ header nav ul li a.actives::after {
     text-align: right;
     font-size: 14px !important;
     padding: 10px 10px !important;
-
+  width: 200px;
 }
 
 
